@@ -1,0 +1,14 @@
+{
+    "author": "InfrasCloudy",
+    "email": "support@linaccess.za.net",
+    "github_username": "infrascloudy",
+    "project_name": "A Flaskpress Module",
+    "module_name": "mymodule",
+    "repo_name": "mymodule",
+    "project_short_description": "An awesome Flaskpress module",
+    "project_url": "http://github.com/infrascloudy/mymodule",
+    "project_thumbnail": "http://github.com/infrascloudy/images/flaskpress.png",
+    "release_date": "2017-01-01",
+    "year": "2017",
+    "version": "0.2.0"
+}
